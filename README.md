@@ -44,6 +44,9 @@ This project uses a labeled dataset containing SMS messages categorized as "spam
 4]Evaluation:
 
   *The model's performance is evaluated using metrics such as accuracy, precision, recall, and F1 score. 📊
+  ![image](https://github.com/user-attachments/assets/7517c974-6ac2-4941-b82d-c9c0a066e0ab)
+![image](https://github.com/user-attachments/assets/ed8def5e-6786-42f1-9713-479b973e61d1)
+
 
 ##Contributing 🤝
 Feel free to fork this repository, make changes, and submit pull requests. Please follow best practices and write clear commit messages. ✨
